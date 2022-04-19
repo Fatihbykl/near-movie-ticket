@@ -1,6 +1,6 @@
 # Near Movie Ticket
 
-This is a project that users can buy movie tickets with a NEAR tokens.
+This is a project that users can buy movie tickets with NEAR.
 
 ## Cloning the project
 
