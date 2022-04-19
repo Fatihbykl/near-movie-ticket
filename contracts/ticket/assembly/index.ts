@@ -1,7 +1,7 @@
 import { storage, Context, context, ContractPromiseBatch, u128 } from "near-sdk-as"
 import { Movie, Event, events, Transaction, transactions } from "./models";
 
-    
+
 export function init(): void {
     assert_init()
     storage.setString("owner", context.sender)
